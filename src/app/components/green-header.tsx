@@ -8,6 +8,7 @@ import twit from "@/images/icn settings icn-xs (5).png";
 
 export default function GreenHeader() {
   return (
+    {/*          made by ashna ghazanfar */}
     <div className="lg:block hidden w-full h-[58px] bg-[#23856D]">
       <div className="flex justify-between items-center w-full h-full px-[24px]">
         {/* Left section: Contact Info */}
@@ -21,7 +22,7 @@ export default function GreenHeader() {
             <span className="font-Montserrat text-[14px]">michelle.rivera@example.com</span>
           </button>
         </div>
-
+{/*          made by ashna ghazanfar */}
         {/* Center section: Follow Us */}
         <h6 className="font-Montserrat font-semibold text-[14px] text-white">
           Follow Us and get a chance to win 80% off
@@ -41,3 +42,4 @@ export default function GreenHeader() {
     </div>
   );
 }
+{/*          made by ashna ghazanfar */}
