@@ -3,6 +3,7 @@ import greenman from "@/images/shop-hero-2-png-picture-1.png";
 
 export default function GreenDiv(){
     return(
+        {/*          made by ashna ghazanfar */}
         <div className="w-[1440px] rounded-[5px] absolute bg-[#23856D] mt-[-130px] top-[3200px] border">
             <div className="w-[1440px] h-[709px]">
              <div className="w-[1440px] h-[709px]">
@@ -25,6 +26,7 @@ export default function GreenDiv(){
                     </div>
                 </div>
              </div>
+                {/*          made by ashna ghazanfar */}
             </div>
         </div>
     )
