@@ -77,6 +77,7 @@ export default function AboutUs() {
                     className="object-cover w-full h-full"
                   />
                 </div>
+                {/*          made by ashna ghazanfar */}
                 <div className="p-6 text-center">
                   <h5 className="text-xl font-bold text-[#252B42]">John Doe</h5>
                   <h6 className="text-sm font-semibold text-[#737373]">
@@ -138,7 +139,7 @@ export default function AboutUs() {
                   </div>
                 </div>
               </div>
-
+{/*          made by ashna ghazanfar */}
               {/* Card 3 */}
               <div className="flex flex-col items-center bg-white shadow-lg rounded-lg overflow-hidden">
                 <div className="w-full h-[230px] relative">
@@ -218,7 +219,7 @@ export default function AboutUs() {
 
         {/* groW */}
         <section className="relative w-full h-[636px] flex bg-[#2A7CC7] justify-center items-center mt-[-30px]">
-          
+          {/*          made by ashna ghazanfar */}
       {/* Right Side Blue Section */}
       <div className="w-[1440px] md:w-1/2 h-full bg-[#2A7CC7] lg:px-[250px] lg:ml-[0px] ml-[50px] py-16  flex flex-col justify-center">
         <div className="w-[438px] flex flex-col gap-[24px]">
@@ -298,7 +299,7 @@ export default function AboutUs() {
                             <a href="#" className="text-[#727272] text-sm font-bold">Unlimited Support</a>
                         </nav>
                     </div>
-  
+  {/*          made by ashna ghazanfar */}
                     {/* Resources */}
                     <div>
                         <h2 className="text-[#252b42] text-base font-bold">Resources</h2>
@@ -329,7 +330,7 @@ export default function AboutUs() {
                     </div>
                 </div>
             </section>
-  
+  {/*          made by ashna ghazanfar */}
             {/* Bottom Section */}
             <section className="bg-[#FAFAFA] py-4">
                 <div className="max-w-screen-xl mx-auto flex justify-between items-center">
@@ -338,8 +339,9 @@ export default function AboutUs() {
                        
                     </div>
                 </div>
-            </section>
+            </section>    
         </footer>
+{/*          made by ashna ghazanfar */}
       </div>
     </div>
   );
