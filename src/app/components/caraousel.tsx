@@ -1,4 +1,4 @@
-import Image from "next/image"
+mimport Image from "next/image"
 import women from "@/images/shop-hero-1-product-slide-1 (1).jpg"
 
 export default function Carausel(){
@@ -7,7 +7,7 @@ export default function Carausel(){
           <div className="w-[1440px] h-[716px]">
                  <Image src={women} alt="women"/>
           </div>
-         
+{/*          made by ashna ghazanfar */}
       {/* Content Overlay */}
       <div className="absolute flex flex-col justify-center left-[100px] top-[100px] items-start gap-[35px] px-6 lg:px-16 z-10">
         <h5 className="font-Montserrat font-semibold text-[16px] leading-[24px] text-white">
@@ -22,6 +22,7 @@ export default function Carausel(){
         <button className="w-[221px] h-[62px] rounded-[5px] px-[40px] py-[15px] bg-[#2DC071] text-white text-[24px] font-Montserrat leading-[32px] justify-center">
           SHOP NOW
         </button>
+          {/*          made by ashna ghazanfar */}
       </div>
         </div>
     )
