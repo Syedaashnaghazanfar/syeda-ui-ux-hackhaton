@@ -18,7 +18,7 @@ import p5 from "@/images/product-cover-5 (24).png"
 import p6 from "@/images/product-cover-5 (26).png"
 
 
-
+{/*          made by ashna ghazanfar */}
 export default function Pages() {
   return (
     <div>
@@ -178,7 +178,7 @@ export default function Pages() {
           </div>
         </div>
       </div>
-
+{/*          made by ashna ghazanfar */}
       {/* ProductsCrads */}
       <div className="w-[1051px] h-[72px] flex absolute justify-around top-[900px] left-[193px] bottom-[70px]">
           <span className="font-Montserrat font-semibold text-[14px] leading-[24px] flex justify-center text-[#737373]">Description</span>
@@ -188,7 +188,7 @@ export default function Pages() {
           </span>
           <span className="w-[1049px] absolute top-[980px] border border-[#ECECEC]"></span>
         </div>
-        
+        {/*          made by ashna ghazanfar */}
     <div className="flex flex-col lg:flex-row gap-[30px] px-8 py-12 absolute top-[1000px] left-[200px] items-center justify-center">
       {/* Image Section */}
       <div className="w-full lg:w-[323px] h-auto flex-shrink-0 rounded-lg overflow-hidden">
@@ -200,6 +200,7 @@ export default function Pages() {
           className="object-cover"
         />
       </div>
+      {/*          made by ashna ghazanfar */}
 
       {/* Content Section */}
       <div className="flex  w-full lg:w-[65%] space-y-8 ">
@@ -315,5 +316,6 @@ export default function Pages() {
     
       </div>
 
-  );
+  ); 
 }
+{/*          made by ashna ghazanfar */}
