@@ -11,6 +11,7 @@ import pic8 from "@/images/product-cover-5 (7).png";
 
 export default function ProductCard() {
   return (
+    {/*          made by ashna ghazanfar */}
     <div className="w-full absolute top-[1470px] left-0 flex justify-center">
       <div className="w-[1124px] py-[80px] flex flex-col gap-[80px]">
         {/* Text Section */}
@@ -25,7 +26,7 @@ export default function ProductCard() {
             Problems trying to resolve the conflict between
           </p>
         </div>
-
+{/*          made by ashna ghazanfar */}
         {/* Card Section */}
         <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-[30px]">
           {/* Product Cards */}
@@ -46,3 +47,4 @@ export default function ProductCard() {
     </div>
   );
 }
+{/*          made by ashna ghazanfar */}
